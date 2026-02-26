@@ -1,9 +1,5 @@
 # 🌍 Translation Platform - IASD Porto
 
-[![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)]()
-
 ## 📋 Descrição
 
 Plataforma de tradução em tempo real desenvolvida para facilitar a compreensão de sermões e programas para membros não falantes de português na IASD do Porto. O sistema captura áudio diretamente da mesa de som, traduz automaticamente para múltiplos idiomas usando IA, e disponibiliza o texto traduzido através da interface em uma intranet.
